@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T00:01:55.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5gp9tJxho3YY0QRNtSdy" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T01:32:16.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Lvj9xSuccuSaqkt5NJ_z" version="19.0.0" type="github">
   <diagram id="wSAhBkBn5iiVWKkVrrop" name="Page-1">
     <mxGraphModel dx="1351" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -253,8 +253,27 @@
         <mxCell id="mTqU1Bu4WtuTapaBsfUl-93" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rotation=-180;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="1050" y="355" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h_-MOUCBoz-yRPNMzMAU-1" value="Commonly Prescribed Medications" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-1" value="Commonly Prescribed Medications" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="h_-MOUCBoz-yRPNMzMAU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.71428571428578" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Search by name&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="h_-MOUCBoz-yRPNMzMAU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="931.8571428571431" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-5" value="Carousel of medications" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="770" y="490" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="h_-MOUCBoz-yRPNMzMAU-7" value="LOGIN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="110" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
